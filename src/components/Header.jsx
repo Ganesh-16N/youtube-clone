@@ -96,7 +96,7 @@ const Header = () => {
                         <FiBell className="text-white text-xl cursor-pointer" />
                     </div>
                 </div>
-                <div className=" w-8 h-8 text-[23px] flex justify-center items-center overflow-hidden  md:ml-4">
+                <div className=" text-white w-8 h-8 text-[23px] flex justify-center items-center overflow-hidden  md:ml-4">
                 <NavLink to='/login'  >
                 <CgProfile ></CgProfile>
                 </NavLink>
