@@ -2,8 +2,8 @@ import React from "react";
 
 import { AiFillHome, AiOutlineFlag } from "react-icons/ai";
 import { MdLocalFireDepartment, MdLiveTv, MdOutlineVideoLibrary, MdOutlineSubscriptions } from "react-icons/md";
-import { CgMusicNote } from "react-icons/cg";
-import { FiFilm } from "react-icons/fi";
+// import { CgMusicNote } from "react-icons/cg";
+// import { FiFilm } from "react-icons/fi";
 import { IoGameControllerSharp } from "react-icons/io5";
 import { ImNewspaper } from "react-icons/im";
 import { GiDiamondTrophy, GiEclipse } from "react-icons/gi";

@@ -3,7 +3,7 @@ import React, { useContext, useEffect } from "react";
 import { Context } from "../context/contextApi";
 import LeftNav from "./LeftNav";
 import VideoCard from "./VideoCard";
-import { AiFillHome, AiOutlineFlag } from "react-icons/ai";
+import { AiFillHome } from "react-icons/ai";
 import { NavLink } from "react-router-dom";
 import { MdLocalFireDepartment, MdOutlineSubscriptions, MdOutlineVideoLibrary } from "react-icons/md";
 

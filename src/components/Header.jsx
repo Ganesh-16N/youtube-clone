@@ -8,7 +8,7 @@ import { SlMenu } from "react-icons/sl";
 import { IoIosSearch } from "react-icons/io";
 import { RiVideoAddLine } from "react-icons/ri";
 import { FiBell } from "react-icons/fi";
-import { CgClose, CgProfile } from "react-icons/cg";
+import {  CgProfile } from "react-icons/cg";
 
 import { Context } from "../context/contextApi";
 import Loader from "../shared/loader";
